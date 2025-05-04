@@ -12,6 +12,7 @@ int main(){
         harga = 1000;
         cout << "Waktu parkir: " << jam << " jam " << menit << " Menit " << detik << " detik " << endl;
         if(waktu == 3600){
+            harga = 1000;
             cout << "total biaya parkir: Rp."<< harga << endl; 
         }        
         else{
