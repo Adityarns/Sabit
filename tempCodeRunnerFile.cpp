@@ -1,1 +1,1 @@
-sisa = detik
+    // public:
